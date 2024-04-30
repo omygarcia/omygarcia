@@ -13,4 +13,4 @@ Visita el sitio:
 #### Guitar LA :guitar:
 visita el sitio:
 [https://omygarcia.github.io/guitar-la/index.html](https://omygarcia.github.io/guitar-la/index.html).
-![Imagen principal guitarLA](/../main/img/principal_guitar_la.JPG)
+![Imagen principal guitarLA](https://raw.githubusercontent.com/omygarcia/guitar-la/main/img/principal_guitar_la.JPG)
