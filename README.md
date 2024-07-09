@@ -5,6 +5,10 @@ HTML5, CSS3, Javascript, JQuery, Vue, Angular
 PHP, Laravel, Mysql, NodeJS, Mongodb
 
 ### Proyectos
+### S3 Sistema de sancionados
+Sistema para la administración de servidores publicos sancionados, con interconección con la pdn, desarrollados con nodejs, vue3, MongoDB, dialogFlow
+![Imagen lista sancionados](https://raw.githubusercontent.com/omygarcia/s3-sancionados-frontend/main/public/img/ssancionados_lista_sancionados.JPG)
+
 #### Guitar LA :guitar:
 visita el sitio:
 [https://omygarcia.github.io/guitar-la/index.html](https://omygarcia.github.io/guitar-la/index.html).
