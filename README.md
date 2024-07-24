@@ -7,7 +7,7 @@ PHP, Laravel, Mysql, NodeJS, Mongodb
 ### Proyectos
 ### S3 Sistema de sancionados
 Sistema para la administración de servidores publicos sancionados, con interconección con la pdn, desarrollados con nodejs, vue3, MongoDB, dialogFlow
-![Imagen lista sancionados](https://raw.githubusercontent.com/omygarcia/omygarcia/main/img/ssancionados_lista_sancionados.JPG).
+![Imagen lista sancionados](https://raw.githubusercontent.com/omygarcia/omygarcia/main/img/ssancionados_lista_2.JPG).
 
 #### Guitar LA :guitar:
 visita el sitio:
