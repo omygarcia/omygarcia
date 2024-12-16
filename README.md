@@ -5,13 +5,13 @@ HTML5, CSS3, Javascript, JQuery, Vue, Angular
 PHP, Laravel, Mysql, NodeJS, Mongodb
 
 ### Proyectos
-### Aplicacion Chat
-Sistema web para chat, basado en el chat de skype , desarrollado con nodejs, express,socket.io, mongodb y vue3
-![Imagen Aplicacion chat](https://raw.githubusercontent.com/omygarcia/omygarcia/refs/heads/main/img/Chat2025.2.JPG)
-
 ### App de votación
 Sistema para la contabilización de votos, desarrollado con nodejs, mongodb, socket.io y vue3
 ![Imagen App votacion](https://raw.githubusercontent.com/omygarcia/omygarcia/refs/heads/main/img/app_votacion.JPG).
+
+### Aplicacion Chat
+Sistema web para chat, basado en el chat de skype , desarrollado con nodejs, express,socket.io, mongodb y vue3
+![Imagen Aplicacion chat](https://raw.githubusercontent.com/omygarcia/omygarcia/refs/heads/main/img/Chat2025.2.JPG)
 
 ### S3 Sistema de sancionados
 Sistema para la administración de servidores publicos sancionados, con interconección con la pdn, desarrollados con nodejs, vue3, MongoDB, dialogFlow
