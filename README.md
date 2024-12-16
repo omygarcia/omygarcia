@@ -5,6 +5,10 @@ HTML5, CSS3, Javascript, JQuery, Vue, Angular
 PHP, Laravel, Mysql, NodeJS, Mongodb
 
 ### Proyectos
+### App de votación
+Sistema para la contabilización de votos, desarrollado con nodejs, mongodb, socket.io
+![Imagen App votacion](https://raw.githubusercontent.com/omygarcia/omygarcia/refs/heads/main/img/app_votacion.JPG).
+
 ### S3 Sistema de sancionados
 Sistema para la administración de servidores publicos sancionados, con interconección con la pdn, desarrollados con nodejs, vue3, MongoDB, dialogFlow
 ![Imagen lista sancionados](https://raw.githubusercontent.com/omygarcia/omygarcia/main/img/ssancionados_lista_2.JPG).
